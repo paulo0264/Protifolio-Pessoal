@@ -4,6 +4,7 @@
 
 ## Step by step
 
+Developed with Next js, using styled-component and react-icons...
 How to open the project on your machine:
 
 ```bash
